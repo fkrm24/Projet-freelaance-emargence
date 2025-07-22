@@ -1,0 +1,49 @@
+{
+    "competences": {
+        "Bureautique": [
+            "Excel",
+            "Word",
+            "PowerPoint",
+            "Outlook"
+        ],
+        "Data / BI": [
+            "Power BI",
+            "Tableau",
+            "Qlik",
+            "SQL",
+            "Python",
+            "R"
+        ],
+        "Gestion de projet": [
+            "MS Project",
+            "Jira",
+            "Confluence",
+            "Trello",
+            "Notion",
+            "Teams",
+            "SharePoint"
+        ],
+        "Actuariat / Finance": [
+            "Prophet",
+            "RiskAgility",
+            "Addactis",
+            "Excel/VBA",
+            "R",
+            "Python"
+        ],
+        "Réglementaire / Assurance": [
+            "EIOPA templates",
+            "IFRS17 tools",
+            "SAP",
+            "Oracle",
+            "Outils internes de reporting réglementaire"
+        ],
+        "Communication / GED": [
+            "Teams",
+            "Zoom",
+            "Webex",
+            "SharePoint",
+            "DocuWare"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "profils": [
+        "Consultant Junior",
+        "Consultant Confirmé",
+        "Consultant Senior",
+        "Chef de mission",
+        "Manager",
+        "Senior Manager",
+        "Directeur",
+        "Associé",
+        "Expert",
+        "Data Analyst",
+        "Business Analyst Assurance",
+        "Contrôleur de Gestion Assurance",
+        "Comptable technique",
+        "Comptable frais généraux",
+        "Consolideur",
+        "Chargé de reporting",
+        "Actuaire",
+        "Chargé d'études actuarielles",
+        "Data Scientist",
+        "Business Analyst",
+        "Chargé d'étude",
+        "Chef de projet",
+        "Directeur de projet",
+        "PMO"
+    ]
+}

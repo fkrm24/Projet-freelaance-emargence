@@ -1,0 +1,4 @@
+@import "./experience-card-label.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

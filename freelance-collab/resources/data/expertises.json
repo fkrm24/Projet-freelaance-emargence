@@ -1,0 +1,55 @@
+{
+    "expertises": {
+        "Pilotage de la performance financière": [
+            "KPI",
+            "Tableaux de bord",
+            "Modélisation financière",
+            "Refonte analytique",
+            "Rentabilité technique et financière"
+        ],
+        "Normes & reporting réglementaire": [
+            "IFRS 17",
+            "Solvabilité 2",
+            "QRT",
+            "ORSA",
+            "RSR",
+            "SFCR",
+            "Reporting consolidé",
+            "Retraitements comptables multi-GAAP"
+        ],
+        "Transformation de la fonction finance": [
+            "Diagnostic finance",
+            "Fast close",
+            "TOM finance",
+            "Schéma directeur",
+            "CSP finance"
+        ],
+        "Outils, SI finance & digitalisation": [
+            "Cadrage d'outils SI",
+            "Automatisation de reporting",
+            "Qualité des données",
+            "Intégration ERP",
+            "Reporting réglementaire"
+        ],
+        "Accompagnement au changement / PMO": [
+            "Conduite du changement",
+            "Gouvernance projet",
+            "Suivi des livrables",
+            "Coordination métiers/IT"
+        ],
+        "Expertise actuarielle appliquée à la finance": [
+            "Projections cash-flows",
+            "SCR",
+            "Best estimate",
+            "VNB",
+            "IFRS17 actuariel"
+        ],
+        "Contrôle de gestion & planification": [
+            "Budget/Forecast",
+            "Business partnering",
+            "Plan à 3 ans",
+            "Suivi des charges",
+            "Modélisation des coûts"
+        ]
+    }
+}
